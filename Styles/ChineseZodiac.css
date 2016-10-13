@@ -1,0 +1,107 @@
+html {
+	background-color: rgb(115, 0, 0);
+	background-image: url("../Images/12 Signs/Monkey.gif");
+    background-repeat:repeat;
+    font-family: Arial,"Sans serif";
+    font-size:16px;
+}
+
+#header {
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+}
+
+#tabs {
+	margin: auto;
+	text-align: center;
+	margin-top: 5px;
+}
+
+#homepage {
+	display: inline;
+	-webkit-transition: all 1s ease;
+} 
+#homepage:hover {
+  -webkit-filter: brightness(50%);
+}
+
+#signpage {
+	display: inline;
+	-webkit-transition: all 1s ease;
+} 
+#signpage:hover {
+  -webkit-filter: brightness(50%);
+}
+#contactpage {
+	display: inline;
+	-webkit-transition: all 1s ease;
+} 
+
+#contactpage:hover {
+  -webkit-filter: brightness(50%);
+}
+
+#textwall {
+    padding:1rem 0;
+    border-radius: 10px;
+	background: rgb(255, 125, 125);
+	text-align: center;
+	margin-top: 1rem;
+	margin-left: 5%;
+	margin-right: 5%;
+    margin-bottom: 1rem;
+}
+
+h1 {
+	margin-top: 0px;
+	text-decoration: underline;
+}
+
+#year {
+	font-style: italic;
+}
+
+#animals {
+    padding: 1rem 0;
+    border-radius: 10px;
+	background: rgb(255, 125, 125);
+	text-align: center;
+	margin-top: 1rem;
+	margin-left: 5%;
+	margin-right: 5%;
+    margin-bottom:1rem;
+}
+
+#animals img:hover {
+	background-color: rgb(255, 255, 180);
+	border-radius:5px;
+}
+
+table {
+    margin: auto;
+    padding-bottom: 2%;
+}
+
+#footer {
+	border-radius: 10px;
+	background-color: rgb(75, 0, 0);
+	color: rgb(255, 255, 255);
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: center;
+    padding:0.25% 0;
+    font-size:0.75rem;
+}
+
+#shadowbox { 
+	height:inherit; 
+	margin-left: 20%;
+	margin-right: 20%;
+	border: solid 1px #555; 
+	background-color: rgb(238, 238, 221);
+	box-shadow: 12px 0 15px -4px rgba(0, 0, 0, 1), -12px 0 8px -4px rgba(0, 0, 0, 1); 
+	-moz-box-shadow: 12px 0 15px -4px rgba(0, 0, 0, 1), -12px 0 8px -4px rgba(0, 0, 0, 1);
+	-webkit-box-shadow: 12px 0 15px -4px rgba(0, 0, 0, 1), -12px 0 8px -4px rgba(0, 0, 0, 1); 
+	-o-box-shadow: 12px 0 15px -4px rgba(0, 0, 0, 1), -12px 0 8px -4px rgba(0, 0, 0, 1);
+}
