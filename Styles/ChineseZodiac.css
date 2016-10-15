@@ -1,5 +1,21 @@
+html {
+	background-color: rgb(115, 0, 0);
+	background-image: url("../Images/12 Signs/Monkey.gif");
+    background-repeat:repeat;
+    font-family: Arial,"Sans serif";
+    font-size:16px;
+}
+
+#header {
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+}
+
 #tabs {
 	margin: auto;
+	text-align: center;
+	margin-top: 5px;
 }
 
 #homepage {
@@ -67,7 +83,7 @@ table {
     padding-bottom: 2%;
 }
 
-footer {
+#footer {
 	border-radius: 10px;
 	background-color: rgb(75, 0, 0);
 	color: rgb(255, 255, 255);
@@ -80,6 +96,8 @@ footer {
 
 #shadowbox { 
 	height:inherit; 
+	margin-left: 20%;
+	margin-right: 20%;
 	border: solid 1px #555; 
 	background-color: rgb(238, 238, 221);
 	box-shadow: 12px 0 15px -4px rgba(0, 0, 0, 1), -12px 0 8px -4px rgba(0, 0, 0, 1); 
