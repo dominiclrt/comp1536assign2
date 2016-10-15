@@ -6,10 +6,8 @@ html {
     font-size:16px;
 }
 
-#header {
-	display: block;
-	margin: auto;
-	margin-top: 20px;
+header {
+	text-align: center;
 }
 
 #tabs {
@@ -83,7 +81,7 @@ table {
     padding-bottom: 2%;
 }
 
-#footer {
+footer {
 	border-radius: 10px;
 	background-color: rgb(75, 0, 0);
 	color: rgb(255, 255, 255);
