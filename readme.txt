@@ -1,8 +1,8 @@
 Alfred Swinton, Dominic Tan, SET D, dominiclrt@gmail.com, alfredswinton@gmail.com
 
 Completed tasks
-Alfred covered some css and xhtml coding, contact us page, validation
-Dominic covered image content, text content, some css and xhtml coding
+Alfred covered some css and html coding, contact us page, validation
+Dominic covered image content, text content, some css and html coding
 
 Uncompleted tasks
 None
