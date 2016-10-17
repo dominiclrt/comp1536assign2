@@ -40,28 +40,20 @@ header {
   -webkit-filter: brightness(50%);
 }
 
-#textwall {
-    padding:1rem 0;
-    border-radius: 10px;
-	background: rgb(255, 125, 125);
-	text-align: center;
-	margin-top: 1rem;
-	margin-left: 5%;
-	margin-right: 5%;
-    margin-bottom: 1rem;
-}
-
 h1 {
 	margin-top: 0px;
 	text-decoration: underline;
+}
+
+h2 {
+	text-align: center;
 }
 
 #year {
 	font-style: italic;
 }
 
-#animals {
-    padding: 1rem 0;
+article {
     border-radius: 10px;
 	background: rgb(255, 125, 125);
 	text-align: center;
@@ -71,7 +63,7 @@ h1 {
     margin-bottom:1rem;
 }
 
-#animals img:hover {
+article img:hover {
 	background-color: rgb(255, 255, 180);
 	border-radius:5px;
 }
@@ -102,4 +94,12 @@ footer {
 	-moz-box-shadow: 12px 0 15px -4px rgba(0, 0, 0, 1), -12px 0 8px -4px rgba(0, 0, 0, 1);
 	-webkit-box-shadow: 12px 0 15px -4px rgba(0, 0, 0, 1), -12px 0 8px -4px rgba(0, 0, 0, 1); 
 	-o-box-shadow: 12px 0 15px -4px rgba(0, 0, 0, 1), -12px 0 8px -4px rgba(0, 0, 0, 1);
+}
+
+.parameter {
+	text-align: right;
+}
+
+.inputbox {
+	text-align: center;
 }
